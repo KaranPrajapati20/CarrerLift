@@ -40,8 +40,7 @@ Copy code
 ### Steps
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/HR-Promotions-Prediction-System.git
-   cd HR-Promotions-Prediction-System
+   git clone https://github.com/KaranPrajapati20/CarrerLift.git
 Setup Environment Variables
 
 Create a .env file in the server/ directory with the following keys:
@@ -105,7 +104,7 @@ Scikit-learn for machine learning models.
 📧 Contact
 If you have any questions, feel free to reach out:
 
-Email: your-email@example.com
+Email: prajapatikaran799@gmail.com
 GitHub: your-username
 markdown
 Copy code
